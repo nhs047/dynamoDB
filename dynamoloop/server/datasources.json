@@ -1,0 +1,6 @@
+{
+  "dynamoloopsource": {
+    "name": "dynamoloopsource",
+    "connector": "loopback-connector-dynamodb"
+  }
+}
